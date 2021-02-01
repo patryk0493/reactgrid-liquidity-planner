@@ -1,0 +1,7 @@
+.reactgrid {
+  font-family: "Arial", sans-serif;
+}
+
+.reactgrid .rg-cell:not(.rg-cell-nonEditable) {
+  background-color: rgb(179, 233, 158);
+}
